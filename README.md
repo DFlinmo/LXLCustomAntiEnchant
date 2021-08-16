@@ -1,0 +1,2 @@
+# LXLCustomAntiEnchant
+一个用LXL实现的bds自定义最高附魔等级的反作弊插件
